@@ -1,0 +1,12 @@
+Ideas for NLP - Textual Factor Analysis
+	Training vectors
+		Philosophy texts
+		Fictional literature
+
+	Data sources
+		Training
+			Guttenberg project
+			Textfiles.com
+		Testing
+			Any text
+			OCR from pdf, Archive.org free book image

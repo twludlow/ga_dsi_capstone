@@ -1,0 +1,39 @@
+
+
+EDA
+	Token
+	Lemma
+	Stems
+	n-grams / n-graphs
+	Stopwords
+Output
+	DEBUG - TF-IDF vector matrix
+
+LDA
+	Topic Modeling
+	Gensim
+		Need: Dictionary
+			Corpus
+	Word2Vec - auto topic naming
+Output
+	Topic relevance values
+	Sentiment analysis?
+	PCA?
+
+RNN
+	Multi-Classification Percentage
+LSTM?
+
+
+
+Review w Tucker
+	DONE - Paragraph as unit
+	DONE - Break into during EDA
+
+	Predict Proba
+	Use threshold to assess materiality
+
+	LogReg
+
+
+Optimizing
